@@ -7,6 +7,7 @@
 *.exe
 *.i
 *.s
+*output/
 
 
 # Python
